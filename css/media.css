@@ -1,0 +1,728 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+
+    /* common btn */
+    .commn_btn {
+        width: 160px;
+        height: 40px;
+    }
+    .commn_btn  i{
+        padding-left: 15px;
+    }
+      /* header starts */
+  header {
+    padding: 15px 0;
+   }
+ .logo{
+    font-size: 24px;
+  }
+   .menu ul li a {
+    padding: 8px 0 !important;
+   }
+      /* slider statrs */
+      .slider_p {
+        padding-right: 0px;
+        margin-top: 30px;
+        line-height: 26px;
+       }
+    .slider_item {
+        padding: 80px 0 100px;
+    }
+    .slider_h2 {
+        font-size: 44px;   
+    }
+  /* sercive starts */
+  .c_titel {
+    padding-top: 20px;
+  }
+  .cmn_padd {
+    padding-bottom: 70px;
+  }
+  .c_p {
+    padding-top: 28px;
+    line-height: 28px;
+  }
+  .c_pipe{
+    height: 35px;
+  }
+ .c_h2 {
+    padding-top: 10px;
+    font-size: 24px;
+  }
+ .sm_padd {
+    padding: 0 20px;
+  }
+
+  .serv_h2{
+    margin: 25px 0 20px;
+   }
+  .serv_p{
+    margin: 20px 0 25px;
+    color: #8e8e8e !important;
+   }
+   .serv-icon i {
+    font-size: 50px;
+  }
+   .serv_item {
+    margin: 70px 0 0px;
+    padding: 40px 9px 30px;
+    
+  }
+  .from_input {
+    width: 235px;
+}
+       /* about starts */
+       .about_img img {
+        padding: 0 0px 10px;
+       }
+       .abt_p {
+        padding: 10px 0 10px;
+       }
+       .abt_wp {
+        padding-top: 10px;
+    }
+
+
+    /* resent starts */
+    .wr_btn {
+      margin: 0 14px;
+ }
+/* choose nipro section */
+  .ch_items {
+    padding: 50px 27px 0;
+  }
+  .ch_header h2 {
+    padding-top: 7px;
+   }
+   .ch_p {
+    padding: 24px 0 35px;
+
+  }
+  .ch_icon i {
+    font-size: 44px;
+}
+.ch_padd{
+  padding-bottom: 20px;
+}
+ /* work us section */
+
+  .person_item {
+    margin-top: 40px;
+          
+   }
+/* priseing plan section start */
+.sm_prise {
+  padding: 0 20px;
+}
+
+.items_prise ul li p {
+  line-height: 25px !important;
+}
+.prise_box {
+  margin-top: 45px;
+  padding: 0 22px 25px;
+
+}
+.prise_btn {
+  width: 150px;
+  height: 43px;
+ }
+
+/*  buy section */
+.buy_wp {
+  padding: 30px 0 0;
+}
+.buy_h2w {
+  text-align: center;
+}
+ /* person info starts */ 
+ .into_verti {
+  display: flex;
+  border: 1px solid #8e8e8e !important;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+}
+.info_vrn {
+  margin: 20px 0;
+}
+.info_vrp {
+  margin: 20px 0;
+}
+.info_img img {
+  padding: 18px 0;
+}
+.info_h3 {
+  padding: 8px 0 8px 0;
+ 
+}
+.info_texts {
+  padding: 16px 0;
+}
+.info_p2 {
+  padding: 6px 0 18px;
+}
+.wp_info {
+  padding: 0 14px;
+}
+.info_p2 {
+  padding: 16px 12px 18px;
+}
+.info_cv {
+  padding: 30px 8px;
+
+}
+.info_p1 {
+  padding-top: 22px;
+}
+.info_vrp {
+  margin: 20px 30px;
+}
+.info_vrn {
+  margin: 20px 25px;
+}
+/*contract section */
+.mss_wp {
+  padding-bottom: 60px;
+}
+.cont_frm {
+  padding: 24px 0px;
+}
+.emil_wp {
+  margin: 0px 0;
+}
+.cont_h2{
+  font-family: 16px;
+}
+/* footer statr */
+.last_footer {
+  padding: 22px 0 0;
+}
+.fd_items ul li a {
+  padding-right: 10px;
+}
+.fd_titel {
+  margin: 30px 0 10px;
+  font-size: 12px;
+
+}
+.icon_wp ul li a{
+  padding: 8px 8px;
+   font-size: 14px;
+}
+.icon_wp ul li {
+  margin: 0px;
+}     
+
+
+    
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+          /* header starts */
+  header {
+    padding: 20px 0;
+}
+ .logo{
+    font-size: 24px;
+ }
+  .menu ul li a {
+    padding: 8px 0 !important;
+  }
+    /* slider statrs */
+    .cmn_padd {
+        padding-bottom: 60px;
+      }
+    .slider_p {
+        padding-right: 20px;
+        margin-top: 40px;
+        line-height: 28px;
+       }
+    .slider_item {
+        padding: 110px 0 120px;
+    }
+    .slider_h2 {
+        font-size: 44px;   
+    }
+   /* sercive starts */
+   .c_p {
+    padding-top: 28px;
+    line-height: 28px;
+  }
+  .c_pipe{
+    height: 35px;
+  }
+   .serv_h2{
+    margin: 25px 0 20px;
+   }
+  .serv_p{
+    margin: 20px 0 25px;
+    color: #8e8e8e !important;
+   }
+   .serv-icon i {
+    font-size: 50px;
+  }
+   .serv_item {
+    margin: 70px 0 0px;
+    padding: 40px 9px 30px;
+    
+  }
+     /* about starts */
+     .about_img img {
+        padding: 0 80px;
+       }
+       .abt_p {
+        padding: 25px 0 10px;
+       }
+       .abt_wp {
+        padding-top: 20px;
+    }
+   
+    /* w choose section statrs */
+    .ch_header h2 {
+      padding: 2px 8px;
+  }
+
+  
+  .ch_items {
+    padding: 40px 16px 0;
+  }
+  .ch_p {
+    padding: 14px 0 30px;
+  }
+  .ch_icon i {
+    font-size: 35px;
+  }
+  .ch_padd {
+    padding-bottom: 40px;
+}
+        /* work us section */
+
+.person_item {
+margin-top: 50px;
+
+}
+.person_info {
+  padding: 16px 0 16px 15px;
+
+}
+/* priseing plan section start */
+.items_prise ul li p {
+  line-height: 30px !important;
+}
+.prise_box {
+  margin-top: 70px;
+  padding: 0 22px 40px;
+
+}
+.prise_btn {
+  width: 150px;
+  height: 43px;
+ }
+
+/* person info starts */
+ .into_verti {
+  display: flex;
+  border: 1px solid #8e8e8e !important;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+}
+.info_vrn {
+  margin: 20px 0;
+}
+.info_vrp {
+  margin: 20px 0;
+}
+.info_img img {
+  padding: 18px 118px;
+}
+.info_h3 {
+  padding: 8px 0 8px 0;
+ 
+}
+.info_texts {
+  padding: 16px 0;
+}
+.info_p2 {
+  padding: 6px 0 18px;
+}
+.wp_info {
+  padding: 0 25px;
+}
+.info_p2 {
+  padding: 16px 12px 18px;
+}
+.info_cv {
+  padding: 40px;
+
+}
+.info_p1 {
+  padding-top: 22px;
+}
+.info_vrp {
+  margin: 20px 82px;
+}
+.info_vrn {
+  margin: 20px 72px;
+}
+.buy_btn {
+  height: 45px;
+  width: 160px;
+}   
+/*contract section */
+.mss_wp {
+  padding-bottom: 60px;
+}
+.cont_frm {
+  padding: 24px 0px;
+}
+.emil_wp {
+  margin: 0px 0;
+}
+.cont_h2 {
+  font-size: 26px;
+
+}
+/* footer statr */
+.last_footer {
+  padding: 5px 0 0;
+}
+.text-center {
+  margin: 22px 0px;
+}
+.text-center {
+  margin: 30px 0 10px;
+}
+}
+
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+  /* header starts */
+  header {
+    padding: 20px 0;
+}
+  .menu ul li a {
+    padding: 12px 0 !important;
+  }
+  /* slider statrs */
+  .slider_p {
+    padding-right: 8px;
+   }
+  .slider_item {
+    padding: 140px 0 150px;
+}
+  .slider_h2 {
+    font-size: 50px;   
+   }
+   /* sercive starts */
+   .cmn_padd {
+    padding-bottom: 80px;
+  }
+   .serv_item {
+    margin: 80px 0 0px;
+    padding: 40px 20px 38px;
+   }
+
+   .wr_btn {
+    margin: 0 16px;
+  }
+   /* about starts */
+   .about_img img {
+    padding: 0 110px;
+   }
+   .abt_p {
+    padding: 25px 0 10px;
+   }
+   .abt_wp {
+    padding-top: 20px;
+}
+/* w choose section statrs */
+.ch_header h2 {
+    padding-top: 10px;
+
+  }
+  .ch_items {
+    padding: 40px 34px 0;
+}
+.ch_icon i {
+  font-size: 44px;
+ 
+}
+
+.ch_padd {
+padding-bottom: 40px;
+}
+
+.ch_p {
+  padding: 18px 0 25px;
+}
+
+
+/* work us section */
+
+.cmn_padd {
+  padding-bottom: 60px;
+}
+.person_item {
+margin-top: 60px;
+
+}
+ /* work us section */
+ .person_info {
+  padding: 12px 0 12px 7px;   
+
+ }
+ .p_infoh2{
+ font-size: 17px;
+ }
+ /* prising start */
+ .sm_prise {
+  padding: 0 40px;
+}
+
+ .items_prise ul li p {
+  line-height: 30px !important;
+}
+ .prise_btn {
+  width: 150px;
+  height: 43px;
+ }
+ .prise_box {
+  margin-top: 70px;
+  padding: 0 30px 40px;
+}
+.items_prise {
+  padding-top: 35px;
+}
+
+/* person info starts */
+.info_cv {
+  padding-top: 60px;
+}
+.info_h3 {
+  padding: 10px 0 6px 0;
+  font-family: roboto-regular;
+  font-size: 17px;
+}
+.info_img img {
+  padding: 26px 0px;
+}
+.info_texts {
+  padding: 26px 0;
+}
+.info_p1 {
+  padding-top: 8px;
+}
+.info_p2 {
+  padding: 0px 12px 25px;
+}
+.info_vrp {
+  margin: 18px 12px 90px;
+}
+.info_vrn {
+  margin: 95px 0 18px;
+}
+/* contact starts */
+.emil_wp {
+  margin: -6px 0;
+}
+.mss_wp {
+  padding-bottom: 60px;
+}
+
+/* footer statr */
+.last_footer {
+  padding: 5px 0 0;
+}
+.text-center {
+  margin: 22px 0px;
+}
+.text-center {
+  margin: 30px 0 10px;
+}
+
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+      /* slider statrs */
+      .slider_item {
+        padding: 170px 0 180px;
+    }
+  .slider_h2 {
+    font-size: 50px;   
+   }
+
+   /* sercive starts */
+   .serv_h2{
+    margin: 25px 0 20px;
+   }
+  .serv_p{
+    margin: 20px 0 25px;
+    color: #8e8e8e !important;
+   }
+   .serv_item {
+    margin: 110px 0 0px;
+    padding: 40px 9px 30px;
+    
+  }
+    /* about start */
+    .about_img img {
+        padding: 0 0px;
+    }
+       
+    .abt_p {
+        padding-top: 0px !important;
+    }
+    .abt_wp {
+        padding-top: 2px;
+    }
+
+    .ch_items {
+      padding: 40px 27px 0;
+  }
+  .ch_padd {
+    padding-top: 60px;
+  }
+
+
+  /* work us section */
+  .person_info {
+    padding: 12px 0 12px 7px;   
+  
+   }
+   .p_infoh2{
+   font-size: 17px;
+   }
+   /* prising start */
+   .items_prise ul li p {
+    line-height: 30px !important;
+}
+   .prise_btn {
+    width: 150px;
+    height: 43px;
+   }
+    .prise_box {
+      padding: 0 15px 40px;
+ 
+  }
+  .items_prise {
+    padding-top: 30px;
+}
+
+/* person info start */
+.info_texts {
+  padding: 25px 0;
+}
+.info_img img {
+  padding: 25px 12px;
+}
+/* footer start */
+.fd_items ul li a {
+  padding-right: 26px;
+}
+
+
+   
+
+
+
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (mi-width: 1200px) and (max-width: 1399.98px) { 
+     /* slider statrs */
+     .slider_p {
+        padding-right: 0;
+       }
+       /* about start */
+       .about_img img {
+        padding: 0 25px;
+    }
+       
+    .abt_p {
+        padding-top: 12px !important;
+    }
+    .abt_wp {
+        padding-top: 32px;
+    }
+        /* w choose section statrs */
+        .ch_items {
+          padding: 40px 34px 0;
+      }
+      .ch_padd {
+        padding-top: 60px;
+      }
+       /* person info start */
+       .info_img img {
+        padding: 20px 22px;
+    }
+    
+    .info_vrp {
+      width: 100%;
+      margin: 20px 12px 120px;
+  }
+  
+  .info_vrn{
+      margin: 120px 0 20px;
+  }
+  .info_h3 {
+    padding: 20px 0 20px 0;
+
+}
+/* contact us */
+.cont_frm {
+  padding: 80px 0px 20px;
+}
+  
+}
+
+/* Extra Extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) { 
+         /* slider statrs */
+         .slider_p {
+            padding-right: 85px;
+           }
+           /* about section */
+           .c_p {
+            padding-top: 20px;
+        }
+           .abt_p {
+            padding-top: 23px;
+            line-height: 27px;
+        }
+        .about_img img {
+           width: 100%;
+        }
+        .abt_wp{
+            padding-top: 40px;
+        }
+        /* w choose section statrs */
+        .ch_items {
+          padding: 45px 34px 0;
+      }
+      .ch_padd {
+      padding-top: 60px;
+    }
+
+ /* person info start*/
+ .info_img img {
+  padding: 25px 38px;
+}
+    .info_vrp {
+      width: 100%;
+      margin: 20px 12px 115px;
+  }
+  
+  .info_vrn{
+      margin: 107px 0 30px;
+  }
+  .emil_wp {
+    margin: 0px 0;
+}
+ 
+  
+}
